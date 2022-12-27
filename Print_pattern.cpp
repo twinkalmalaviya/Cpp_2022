@@ -76,6 +76,7 @@ bool print_pattern()
                 }
                 std::cout<<std::endl;
             }
+            break;
         default:
             std::cout<<"Invalid pattern no"<<std::endl;
     }
